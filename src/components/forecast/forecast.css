@@ -1,0 +1,40 @@
+.title{
+    font-size: 25px;
+    font-weight: 650;
+}
+
+.daily_forecast{
+    background-color: greenyellow;
+    border-radius: 17px;
+    height: 51px;
+    margin: 8px;
+    display: flex;
+    align-items: center;
+    padding: 5px 20px;
+    color: black;
+
+}
+
+.images{
+    width: 55px;
+
+}
+
+.days{
+    margin: 12px;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.description{
+    margin: 20px;
+    font-size: 20px;
+    font-weight: 400;
+    word-spacing: 2%;
+}
+
+.min_temp-max_temp{
+    margin: 20px;
+    font-size: 20px;
+    font-weight: 400;
+}
